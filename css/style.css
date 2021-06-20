@@ -1,0 +1,18 @@
+body {
+  background-color: #F9DFDC;
+}
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: #F4C7AB;
+  border-width: 7px;
+  width: 10%;
+}
+h1 {
+  color: #B4846C;
+  font-family: "OCR A Std", monospace;
+}
+h3 {
+  color: #E5B299;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+}
