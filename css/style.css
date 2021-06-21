@@ -13,6 +13,12 @@ h1 {
   font-family: "OCR A Std", monospace;
 }
 h3 {
-  color: #E5B299;
+  color: #B4846C;
   font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 30px;
+}
+.intro {
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-style: oblique;
+  font-size: 20px;
 }
